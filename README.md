@@ -1,2 +1,2 @@
-# PLTE-data
+# PLTE data
 PLTEの文字データを失効してしまった際に使用してください。
